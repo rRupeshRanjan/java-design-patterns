@@ -1,4 +1,4 @@
-package creational;
+package com.java.design.patterns.creational.singleton;
 
 import lombok.Data;
 

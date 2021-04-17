@@ -1,5 +1,6 @@
-package creational;
+package com.java.design.patterns.creational;
 
+import com.java.design.patterns.creational.singleton.SingletonClass;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
